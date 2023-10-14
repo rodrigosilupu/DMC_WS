@@ -16,5 +16,5 @@ Adicionalmente se evaluará:
 ⁃ Guardar pantallazo (1p)
 ⁃ Cerrado del navegador (1p)
 Bono:
-⁃ Captura de descripción de cada libro (Uso de ventanas) (2p)
-⁃ Iteración sobre todas las páginas (2p)
+<p> ⁃ Captura de descripción de cada libro (Uso de ventanas) (2p)  <p/> 
+<p> ⁃ Iteración sobre todas las páginas (2p) <p/> 
